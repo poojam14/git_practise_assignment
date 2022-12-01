@@ -8,7 +8,7 @@ return factor;
 }
 reverse("str");
 
-let answer !== reverse(str);
+let answer == reverse(str);
 if(answer=str){
 console.log(str, " is Palindrome");
 }else{
